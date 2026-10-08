@@ -1,6 +1,6 @@
 import {fizzbuzz} from './fizzbuzz.js';
 import assert from'node:assert';
-import {test, describe} from 'node:test'
+import {test, describe} from 'node:test';
 
 describe("Division by 3", () => {
     test('3 returns fizz', () => {
